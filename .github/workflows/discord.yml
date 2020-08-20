@@ -16,4 +16,4 @@ jobs:
     steps:
       - uses: distributhor/workflow-webhook@v1
         env:
-          webhook_url: ${{ secrets.WEBHOOK_URL }}
+          webhook_url: ${{ secrets.DISCORD_WEBHOOK }}
