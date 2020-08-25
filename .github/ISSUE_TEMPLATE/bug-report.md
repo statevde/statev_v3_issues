@@ -20,3 +20,6 @@ assignees: ''
 
 **Schritte um den Fehler nachvollziehen zu können**
 <!--- Beschreibe Schritt für Schritt wie man den Fehler nachstellen kann -->
+
+**Optional: Video / Bilder des Fehlers**
+<!--- Falls du ein Video oder Bild vom Fehler gemacht hast, dann kannst du diesen hier einfügen. Dies geht ganz einfach per Drag & Drop -->
