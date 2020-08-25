@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Bug Report
+about: Vorlage für das Reporten eines Bugs von StateV
 title: ''
 labels: ''
 assignees: ''
