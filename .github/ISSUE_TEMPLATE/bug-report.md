@@ -10,7 +10,7 @@ assignees: ''
 <!-- Bitte die Vorlage unten vollständig ausfüllen -->
 
 **Zeitpunkt (Datum / Uhrzeit)**
-<!-- Wann exakt (Datum / Uhrzeit) ist der Fehler beobachtet worden ->
+<!-- Wann exakt (Datum / Uhrzeit) ist der Fehler beobachtet worden -->
 
 **Beobachtetes Verhalten**
 <!--- Beschreibe den Fehler -->
