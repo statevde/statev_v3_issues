@@ -8,6 +8,8 @@ assignees: ''
 ---
 
 <!-- Bitte die Vorlage unten vollständig ausfüllen -->
+**Character Name**
+<!-- Mit welchem Character wurde das Verhalten in-game ausgelöst/beobachtet -->
 
 **Zeitpunkt (Datum / Uhrzeit)**
 <!-- Wann exakt (Datum / Uhrzeit) ist der Fehler beobachtet worden -->
