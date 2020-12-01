@@ -11,7 +11,7 @@ assignees: ''
 **Character Name**
 <!-- Mit welchem Character wurde das Verhalten in-game ausgelöst/beobachtet -->
 
-**Zeitpunkt (Datum / Uhrzeit)**
+**Auftrittszeitpunkt (Datum / Uhrzeit)**
 <!-- Wann exakt (Datum / Uhrzeit) ist der Fehler beobachtet worden -->
 
 **Beobachtetes Verhalten**
