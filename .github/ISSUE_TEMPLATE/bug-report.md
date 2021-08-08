@@ -7,6 +7,12 @@ assignees: ''
 
 ---
 
+## WICHTIGE INFORMATION!!:
+```
+Hier sollen nur Bugs gemeldet werden, Vorschläge bitte ins StateV-Forum!
+```
+
+Hier sollen nur Bugs gemeldet werden, Vorschläge bitte ins StateV-Forum!
 <!-- Bitte die Vorlage unten vollständig ausfüllen -->
 **Character Name**
 <!-- Mit welchem Character wurde das Verhalten in-game ausgelöst/beobachtet -->
