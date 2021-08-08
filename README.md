@@ -1,5 +1,10 @@
 # Willkommen auf dem StateV-Bugtracker!
 
+## WICHTIGE INFORMATION!!:
+```
+Hier sollen nur Bugs gemeldet werden, Vorschläge biite ins StateV-Forum!
+```
+
 ## Wie Reporte ich einen Fehler?
 Bevor du einen Fehler Meldest, vergewissere dich bitte, das dieser nicht bereits gemeldet worden ist.
 Die Liste der aktuellen Fehler findest du oben im Reiter [Issues](https://github.com/mexyn/statev_v2_issues/issues)
