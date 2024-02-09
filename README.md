@@ -2,7 +2,7 @@
 
 ## WICHTIGE INFORMATION!!:
 ```
-Hier sollen nur Bugs gemeldet werden, Vorschläge bitte ins StateV-Forum!
+Hier sollen nur Bugs gemeldet werden, Vorschläge bitte ins StateV-Discord!
 ```
 
 ## Wie Reporte ich einen Fehler?
