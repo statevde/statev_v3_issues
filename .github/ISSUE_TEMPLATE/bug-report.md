@@ -9,7 +9,7 @@ assignees: ''
 
 ## WICHTIGE INFORMATION!!:
 ```
-Hier sollen nur Bugs gemeldet werden, Vorschläge bitte ins StateV-Forum!
+Hier sollen nur Bugs gemeldet werden, Vorschläge bitte ins StateV-Discord!
 ```
 
 <!-- Bitte die Vorlage unten vollständig ausfüllen -->
